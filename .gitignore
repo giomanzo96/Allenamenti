@@ -1,0 +1,10 @@
+# Ignora tutto
+*
+
+# Mantieni questi file
+!app.py
+!requirements.txt
+!allenamenti.db
+
+# Mantieni il gitignore stesso
+!.gitignore
